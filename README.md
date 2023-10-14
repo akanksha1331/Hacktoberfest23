@@ -1,6 +1,6 @@
 
 
-# DSA_CP_Hacktoberfest23 🔆
+# Hacktoberfest23 🔆
 
 ![hacktoberfest2023](https://github.com/akanksha1331/DSA_CP_Hacktoberfest23/blob/main/hacktoberfest%20logo.jpeg)
 <br><br>
