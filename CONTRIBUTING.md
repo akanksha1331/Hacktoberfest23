@@ -7,6 +7,7 @@
 -🎯Browse through existing issues to prevent duplicate submissions.<br>
 -🖊Name you files appropriately. Ensure that your file name is unique, and does not previously exist in folder.<br>
 -🎯Once assigned, proceed with your contributions and initiate your initial PR.<br>
+-🖊 For DSA/CP contributions, give brief explanation of the algorithm and complexities as comments.
 -🎯Kindly furnish a brief description of your code or contribution to facilitate learning and enhancement by others.<br>
 -🎯Refrain from removing any existing content.<br>
 -🎯Do not make changes to existing files.<br>
