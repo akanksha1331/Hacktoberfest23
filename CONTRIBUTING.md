@@ -9,6 +9,7 @@ Refrain from removing any existing content.
 The styling/code may range from elegant to rudimentary, substantial or minor, as long as it functions.
 Endeavor to keep pull requests concise to mitigate merge conflicts.
 <br>
+
 Frequently Asked Questions (FAQs)
 If you have any queries, kindly consult our FAQs for clarifications.
 
@@ -35,16 +36,16 @@ git add .
 git commit -m "Relevant message"
  Then push
 git push origin my-new-branch
- Create a new pull request from your forked repository
+ Create a new pull request from your forked repository.
 
 # Avoid Conflicts {Syncing your fork}
  An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 git remote add upstream https://github.com/akanksha1331/DSA_CP_Hacktoberfest23
- You can verify that the new remote has been added by typing
+ You can verify that the new remote has been added by typing.
 
 git remote -v
- To pull any new changes from your parent repo simply run
+ To pull any new changes from your parent repo simply run.
 
 git merge upstream/main
 
