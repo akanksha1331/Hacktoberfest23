@@ -1,0 +1,33 @@
+Merge Sort is a classic divide-and-conquer sorting algorithm. It works by recursively breaking down an unsorted list into sublists of one element each. Then, it repeatedly merges these sublists in a way that ensures each merged sublist is sorted. This process continues until there's only one sorted list remaining, which is the fully sorted output.
+
+Here's a step-by-step explanation:
+
+Divide: The unsorted list is repeatedly divided into sublists until each sublist contains only one element. This is achieved by recursively splitting the list in half.
+
+Conquer: Once we have sublists of one element each, we start merging them back together. During each merge operation, we sort and combine two sublists.
+
+Combine: This is the crucial step. We take two sorted sublists and merge them into one larger sorted list. This is done by comparing the first element of each sublist and appending the smaller element to the new list. This process continues until all elements from both sublists are merged.
+
+Repeat: Steps 2 and 3 are repeated until the entire list is merged into one sorted list.
+
+Let's illustrate this with an example:
+
+Suppose we have an unsorted list: [38, 27, 43, 3, 9, 82, 10]
+
+Divide:
+
+[38, 27, 43] | [3, 9, 82, 10]
+[38] | [27, 43]
+[27] | [43]
+Conquer:
+
+[27, 38] | [27, 43]
+[27, 27, 38, 43]
+Combine:
+
+[3, 9] | [10, 82]
+[3, 9, 10, 82]
+Repeat:
+
+[3, 9, 10, 27, 38, 43, 82]
+Now, the list is fully sorted!
