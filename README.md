@@ -18,8 +18,8 @@
 
 🔹Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! <br>
 🔹Write theory explanations for topics related to Data Structures and Algorithms to help fellow learners grasp concepts better.<br>
-⚜️ Maintain good quality of contributions.<br><br>
-✅ Check closed Pull requests to ensure the Problem duplication does not take place.
+⚜️ Maintain good quality of contributions.<br>
+✅ Check closed Pull requests to ensure the Problem duplication does not take place.<br><br>
 
 ## Note 1: Add files in their respective folder 📁 
 🔸For DSA/CP Questions and Solutions : Folder is DSA_CP <br>
