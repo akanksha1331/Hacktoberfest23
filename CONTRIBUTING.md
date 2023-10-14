@@ -1,4 +1,4 @@
-# Guidelines for Contributions 📚:
+# Guidelines for Contributions 📚
 Before you commence contributing, please familiarize yourself with our Code of Conduct. We anticipate all contributors to adhere to these instructions to maintain a positive and inclusive community.
 
 Initiate an issue regarding the code or contributions you plan to make.
@@ -17,34 +17,34 @@ We have categorized the project into DSA_CP and Theory_Explanation. Select the d
 
 
 
-# Getting Started 🤩🤗:
-## Fork this repo (button on top)
-## Clone on your local machine
+# Getting Started 🤩🤗
+ Fork this repo (button on top)
+ Clone on your local machine
 git clone https://github.com/akanksha1331/DSA_CP_Hacktoberfest23.git
-## Navigate to project directory.
+Navigate to project directory.
 cd DSA_CP_Hacktoberfest23
 
-## Create a new Branch
+ Create a new Branch
 git checkout -b my-new-branch
-## Make your changes folderName/fileName
+ Make your changes folderName/fileName
 
-## Add your changes
+ Add your changes
 
 git add .
-## Commit your changes.
+ Commit your changes.
 git commit -m "Relevant message"
-## Then push
+ Then push
 git push origin my-new-branch
-## Create a new pull request from your forked repository
+ Create a new pull request from your forked repository
 
 # Avoid Conflicts {Syncing your fork}
-## An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
+ An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 git remote add upstream https://github.com/akanksha1331/DSA_CP_Hacktoberfest23
-## You can verify that the new remote has been added by typing
+ You can verify that the new remote has been added by typing
 
 git remote -v
-## To pull any new changes from your parent repo simply run
+ To pull any new changes from your parent repo simply run
 
 git merge upstream/main
 
