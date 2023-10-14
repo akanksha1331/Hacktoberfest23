@@ -1,3 +1,21 @@
+/* 
+Given an input text and an array of k words, arr[], find all occurrences of all words in the input text. Let n be the length of text and m be the total number of characters in all words, i.e. m = length(arr[0]) + length(arr[1]) + … + length(arr[k-1]). Here k is total numbers of input words.
+
+Example:  
+
+Input: text = "ahishers"    
+       arr[] = {"he", "she", "hers", "his"}
+
+Output:
+   Word his appears from 1 to 3
+   Word he appears from 4 to 5
+   Word she appears from 3 to 5
+   Word hers appears from 4 to 7
+
+If we use a linear time searching algorithm like KMP, then we need to one by one search all words in text[]. This gives us total time complexity as O(n + length(word[0]) + O(n + length(word[1]) + O(n + length(word[2]) + … O(n + length(word[k-1]). This time complexity can be written as O(n*k + m). 
+
+Aho-Corasick Algorithm finds all words in O(n + m + z) time where z is total number of occurrences of words in text. The Aho–Corasick string matching algorithm formed the basis of the original Unix command fgrep.
+*/
 const int K = 26;
 
 struct Vertex {
