@@ -30,4 +30,4 @@ Commit Changes: Once you've added your contribution, commit the changes.
 
 
 
-# Create a Pull Request: Go back to the original repository and click on the 'New Pull Request' button. Make sure to add your file name and your GitHub account name in the title or description.
+ Create a Pull Request: Go back to the original repository and click on the 'New Pull Request' button. Make sure to add your file name and your GitHub account name in the title or description.
