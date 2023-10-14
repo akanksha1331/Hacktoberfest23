@@ -15,10 +15,10 @@
 
 
 # Specific Directories
-<br>
+
 -🧩We have categorized the project into DSA_CP and Theory_Explanation. <br>
 -🧩Select the directory that aligns with your interests.<br>
--🧩Only folders DSA_CP and Theory_Explanation are open to contributions.<br>
+-🧩Only folders DSA_CP and Theory_Explanation are open to contributions.<br><br>
 
 
 
