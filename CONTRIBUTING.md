@@ -1,21 +1,21 @@
 # Guidelines for Contributions 📚
--Before you commence contributing, please familiarize yourself with our Code of Conduct. 
--We anticipate all contributors to adhere to these instructions to maintain a positive and inclusive community.
+-Before you commence contributing, please familiarize yourself with our Code of Conduct. <br>
+-We anticipate all contributors to adhere to these instructions to maintain a positive and inclusive community.<br>
 
--Initiate an issue regarding the code or contributions you plan to make.
--Browse through existing issues to prevent duplicate submissions.
--Once assigned, proceed with your contributions and initiate your initial PR.
--Kindly furnish a brief description of your code or contribution to facilitate learning and enhancement by others.
--Refrain from removing any existing content.
--The styling/code may range from elegant to rudimentary, substantial or minor, as long as it functions.
--Endeavor to keep pull requests concise to mitigate merge conflicts.
+-🎯Initiate an issue regarding the code or contributions you plan to make.<br>
+-🎯Browse through existing issues to prevent duplicate submissions.<br>
+-🎯Once assigned, proceed with your contributions and initiate your initial PR.<br>
+-🎯Kindly furnish a brief description of your code or contribution to facilitate learning and enhancement by others.<br>
+-🎯Refrain from removing any existing content.<br>
+-🎯Do not make changes to existing files.
+-🎯Endeavor to keep pull requests concise to mitigate merge conflicts.<br>
 <br>
 
 
-Specific Directories
--We have categorized the project into DSA_CP and Theory_Explanation. 
--Select the directory that aligns with your interests.
--Only folders DSA_CP and Theory_Explanation are open to contributions.
+# Specific Directories<br>
+-🧩We have categorized the project into DSA_CP and Theory_Explanation. <br>
+-🧩Select the directory that aligns with your interests.<br>
+-🧩Only folders DSA_CP and Theory_Explanation are open to contributions.<br>
 
 
 
