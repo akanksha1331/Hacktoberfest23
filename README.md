@@ -7,8 +7,7 @@
 🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. <br><br>
 🎯Fork, create, commit, PR. Your expertise empowers learners! <br><br>
 💻Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. <br><br>
- 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**<br><br>
-
+ 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**<br>
 📢 **Register [here](https://hacktoberfest.com/) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**<br><br>
 
 # Contributing
