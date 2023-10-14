@@ -1,8 +1,9 @@
 # DSA_CP_Hacktoberfest23
 🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. Fork, create, commit, PR. Your expertise empowers learners! 
-# Hacktoberfest 2023 Contribution Guidelines
-
 Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. 
+ 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
+
+📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
 # What Can You Contribute?
 
@@ -11,11 +12,8 @@ DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Alg
 Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! Write theory explanations for specific topics to help fellow learners grasp concepts better.
 
 
- Create a Pull Request: Go back to the original repository and click on the 'New Pull Request' button. Make sure to add your file name and your GitHub account name in the title or description.
 
- 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
-📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
 ## Contributing
 
