@@ -16,6 +16,10 @@ DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Alg
 
 Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! Write theory explanations for specific topics to help fellow learners grasp concepts better.
 
+## Note: Add files in their respective folder
+For DSA/CP Questions and Solutions : Folder is DSA_CP
+For Theory Explanations : Folder is Theory_Explanation
+
 
 
 
