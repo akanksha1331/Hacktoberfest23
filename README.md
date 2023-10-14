@@ -3,6 +3,7 @@
 # DSA_CP_Hacktoberfest23
 
 ![hacktoberfest2023](https://github.com/akanksha1331/DSA_CP_Hacktoberfest23/blob/main/hacktoberfest%20logo.jpeg)
+<br><br>
 🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. <br><br>
 🎯Fork, create, commit, PR. Your expertise empowers learners! <br><br>
 💻Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. <br><br>
@@ -17,8 +18,8 @@ DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Alg
 Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! Write theory explanations for specific topics to help fellow learners grasp concepts better.
 
 ## Note: Add files in their respective folder
-For DSA/CP Questions and Solutions : Folder is DSA_CP
-For Theory Explanations : Folder is Theory_Explanation
+For DSA/CP Questions and Solutions : Folder is DSA_CP <br>
+For Theory Explanations : Folder is Theory_Explanation <br>
 
 
 
