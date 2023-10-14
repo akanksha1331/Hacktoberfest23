@@ -5,12 +5,13 @@
 
 -🎯Initiate an issue regarding the code or contributions you plan to make.<br>
 -🎯Browse through existing issues to prevent duplicate submissions.<br>
--🎯Name you files appropriately. Ensure that your file name is unique, and does not previously exist in folder.<br>
+-🖊Name you files appropriately. Ensure that your file name is unique, and does not previously exist in folder.<br>
 -🎯Once assigned, proceed with your contributions and initiate your initial PR.<br>
 -🎯Kindly furnish a brief description of your code or contribution to facilitate learning and enhancement by others.<br>
 -🎯Refrain from removing any existing content.<br>
 -🎯Do not make changes to existing files.<br>
 -🎯Endeavor to keep pull requests concise to mitigate merge conflicts.<br>
+-🖊Write a 1-line desciption of your contribution by in the 'Extended Description' section while commiting and making pull request
 <br>
 
 
