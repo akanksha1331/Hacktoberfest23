@@ -1,5 +1,5 @@
 class Solution {
-    public String reverseWords(String s) {
+    public static String reverseWords(String s) {
         String[] arr = s.split(" ");
         String res = "";
         for(String str:arr){
@@ -7,11 +7,15 @@ class Solution {
         }
         return res.substring(0,res.length()-1);
     }
-    public String reverse(String str){
+    public static String reverse(String str){
         String temp = "";
         for(int i = 0;i < str.length();i++){
             temp = str.charAt(i) + temp;
         }
         return temp;
+    }
+    public static void main(String[] args){
+        String str = "Welcome to Hactober World!!";
+        System.out.println(reverseWords(str));
     }
 }
