@@ -9,7 +9,6 @@ Refrain from removing any existing content.
 The styling/code may range from elegant to rudimentary, substantial or minor, as long as it functions.
 Endeavor to keep pull requests concise to mitigate merge conflicts.
 <br>
-
 Frequently Asked Questions (FAQs)
 If you have any queries, kindly consult our FAQs for clarifications.
 
@@ -50,24 +49,12 @@ git commit -m "Relevant message"
 - Then push 
 ```markdown
 git push origin my-new-branch
-
- Create a new pull request from your forked repository.
-=======
 ```
 
 
-
-
-git remote add upstream https://github.com/akanksha1331/DSA_CP_Hacktoberfest23
- You can verify that the new remote has been added by typing.
-
-git remote -v
- To pull any new changes from your parent repo simply run.
-=======
 - Create a new pull request from your forked repository
 
 <br>
-
 
 ## Avoid Conflicts {Syncing your fork}
 
@@ -83,6 +70,12 @@ git remote -v
 ```
 
 To pull any new changes from your parent repo simply run
+```terminal
+git merge upstream/main
+```
+
+This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+
 ```terminal
 git merge upstream/main
 ```
