@@ -1,6 +1,6 @@
 # DSA_CP_Hacktoberfest23
 🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. Fork, create, commit, PR. Your expertise empowers learners! 
-# Hacktoberfest 2023 Contribution Guidelines:
+# Hacktoberfest 2023 Contribution Guidelines
 
 Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. 
 
