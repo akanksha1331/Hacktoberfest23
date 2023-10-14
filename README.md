@@ -3,12 +3,12 @@
 # DSA_CP_Hacktoberfest23
 
 ![hacktoberfest2023](https://github.com/akanksha1331/DSA_CP_Hacktoberfest23/blob/main/hacktoberfest%20logo.jpeg)
-🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. <br>
-Fork, create, commit, PR. Your expertise empowers learners! <br>
-Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. <br>
- 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**<br>
+🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. <br><br>
+🎯Fork, create, commit, PR. Your expertise empowers learners! <br><br>
+💻Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. <br><br>
+ 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**<br><br>
 
-📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**<br>
+📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**<br><br>
 
 # What Can You Contribute?
 
