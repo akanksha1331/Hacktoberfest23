@@ -12,9 +12,10 @@
 
 # Contributing
 <br>
-🎉 We welcome contributions from everyone, regardless of your experience level. Here are some ways you can contribute:<br>
+🎉 We welcome contributions from everyone, regardless of your experience level. <br>
+💠Here are some ways you can contribute:<br>
 
-Do read the [Contribution Guidelines](/CONTRIBUTING.md)
+📌Do read the [Contribution Guidelines](/CONTRIBUTING.md)
 <br>
 - 📚 Improving documentation<br>
 - 🐛 Fixing bugs<br>
