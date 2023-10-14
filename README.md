@@ -4,10 +4,10 @@
 
 ![hacktoberfest2023](https://github.com/akanksha1331/DSA_CP_Hacktoberfest23/blob/main/hacktoberfest%20logo.jpeg)
 <br><br>
-🚀 Join our Hacktoberfest 2023 DSA CP repo! Contribute DSA/CP problems with solutions &amp; theory explanations. <br><br>
+🚀 Join our Hacktoberfest 2023  repo!  <br><br>
+🎉 We're excited to have you on board. <br><br>
 🎯Fork, create, commit, PR. Your expertise empowers learners! <br><br>
 ✨**Beginner-friendly repo, aims to familiarize newbies with Open-Source contributions and Github.**<br><br>
-💻Welcome to our Hacktoberfest 2023 DSA CP repository! 🎉 We're excited to have you on board. <br><br>
  🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**<br><br>
 📢 **Register [here](https://hacktoberfest.com/) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**<br><br>
 
