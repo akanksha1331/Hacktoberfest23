@@ -2,14 +2,14 @@
 -Before you commence contributing, please familiarize yourself with our Code of Conduct. <br>
 -We anticipate all contributors to adhere to these instructions to maintain a positive and inclusive community.<br>
 
--🎯Name you files appropriately. Ensure that your file name is unique, and does not previously exist in folder.<br>
--🎯Preferably solve new problems. Dont submit solutions to problems that have already been solved in the repo.<br>
+
 -🎯Initiate an issue regarding the code or contributions you plan to make.<br>
 -🎯Browse through existing issues to prevent duplicate submissions.<br>
+-🎯Name you files appropriately. Ensure that your file name is unique, and does not previously exist in folder.<br>
 -🎯Once assigned, proceed with your contributions and initiate your initial PR.<br>
 -🎯Kindly furnish a brief description of your code or contribution to facilitate learning and enhancement by others.<br>
 -🎯Refrain from removing any existing content.<br>
--🎯Do not make changes to existing files.
+-🎯Do not make changes to existing files.<br>
 -🎯Endeavor to keep pull requests concise to mitigate merge conflicts.<br>
 <br>
 
