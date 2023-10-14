@@ -13,11 +13,12 @@ Frequently Asked Questions (FAQs)
 If you have any queries, kindly consult our FAQs for clarifications.
 
 Specific Directories
-We have categorized the project into DSA_CP and Theory_Explanation. Select the directory that aligns with your interests:
+We have categorized the project into DSA_CP and Theory_Explanation. Select the directory that aligns with your interests.
+Only folders DSA_CP and Theory_Explanation are open to contributions.
 
 
 
-## Getting Started 🤩🤗:
+## Getting Started 🤩🤗
 
 - Fork this repo (button on top)
 - Clone on your local machine
