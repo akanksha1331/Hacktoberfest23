@@ -1,6 +1,6 @@
 
 
-# DSA_CP_Hacktoberfest23
+# DSA_CP_Hacktoberfest23 🔆
 
 ![hacktoberfest2023](https://github.com/akanksha1331/DSA_CP_Hacktoberfest23/blob/main/hacktoberfest%20logo.jpeg)
 <br><br>
@@ -11,15 +11,19 @@
 
 📢 **Register [here](https://hacktoberfest.com/) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**<br><br>
 
-# What Can You Contribute?
+# What Can You Contribute? 📤
 
-DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Algorithms problems along with their solutions. Make sure to include the problem description and your code in a clear and readable format.
+🔹DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Algorithms problems along with their solutions. <br>
+🔹Make sure to include the problem description and your code in a clear and readable format.<br>
 
-Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! Write theory explanations for specific topics to help fellow learners grasp concepts better.
+🔹Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! Write theory explanations for specific topics to help fellow learners grasp concepts better.<br>
 
-## Note: Add files in their respective folder
-For DSA/CP Questions and Solutions : Folder is DSA_CP <br>
-For Theory Explanations : Folder is Theory_Explanation <br>
+## Note: Add files in their respective folder 📁 
+🔸For DSA/CP Questions and Solutions : Folder is DSA_CP <br>
+🔸For Theory Explanations : Folder is Theory_Explanation <br>
+
+## Important Tip 💡
+♻️Sync Fork before making new commit<br>
 
 
 
