@@ -11,7 +11,7 @@
 -🎯Refrain from removing any existing content.<br>
 -🎯Do not make changes to existing files.<br>
 -🎯Endeavor to keep pull requests concise to mitigate merge conflicts.<br>
--🖊Write a 1-line desciption of your contribution by in the 'Extended Description' section while commiting and making pull request
+-🖊Write a 1-line desciption of your contribution by in the 'Extended Description' section while commiting and making pull request.
 <br>
 
 
