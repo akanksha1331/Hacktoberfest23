@@ -1,5 +1,18 @@
- #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
+//To recursively find length of longest increasing subsequence
+int recurseFn(vector<int> &ar,int i,int pr){
+    if (i>= ar.size()) return 0;
+    
+    int len = 0 + recurseFn(ar,i+1,pr);
+    if (pr == -1 || ar[i]>pr){
+        len = max(len, 1 + recurseFn(ar,i+1,ar[i]));
+    }
+    
+    return len;
+}
+
 int main()
 {
     vector<int>nums={0,1,0,3,2,3};
@@ -17,6 +30,7 @@ int main()
             temp[ind]=nums[i];
         }
     }
+    cout<<"Output from recursive fn :"<<recurseFn(nums,0,-1)<<"\n";
     cout<<temp.size();
 }
 
