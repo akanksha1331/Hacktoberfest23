@@ -18,9 +18,9 @@
 
 # Specific Directories
 
--🧩We have categorized the project into DSA_CP and Theory_Explanation. <br>
+-🧩We have categorized the project into DSA_CP, Theory_Explanation and Games_Tools. <br>
 -🧩Select the directory that aligns with your interests.<br>
--🧩Only folders DSA_CP and Theory_Explanation are open to contributions.<br><br>
+-🧩Only folders DSA_CP, Theory_Explanation and Games_Tools are open to contributions.<br><br>
 
 
 
