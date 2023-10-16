@@ -1,0 +1,67 @@
+Insertion sort is a sorting algorithm in which the elements are transferred one at a time to the right position. In other words, an insertion sort helps in building the final sorted list, one item at a time, with the movement of higher-ranked elements. An insertion sort has the benefits of simplicity and low overhead.
+
+Insertion sort has various advantages such as -
+
+   Simple implementation
+   Efficient for small data sets
+   Adaptive, i.e., it is appropriate for data sets that are already substantially sorted.
+
+Algorithm
+
+The simple steps of achieving the insertion sort are listed as follows -
+
+Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
+
+Step2 - Pick the next element, and store it separately in a key.
+
+Step3 - Now, compare the key with all elements in the sorted array.
+
+Step 4 - If the element in the sorted array is smaller than the current element, then move to the next element. Else, shift greater elements in the array towards the right.
+
+Step 5 - Insert the value.
+
+Step 6 - Repeat until the array is sorted.
+
+Consider an example: arr[]: {12, 11, 13, 5, 6}
+
+   {12  11  13  5  6}   
+
+First Pass:
+
+Initially, the first two elements of the array are compared in insertion sort.
+   {12  11  13  5  6}
+Here, 12 is greater than 11 hence they are not in the ascending order and 12 is not at its correct position. Thus, swap 11 and 12.
+So, for now 11 is stored in a sorted sub-array.
+   {11  12  13   5  6} 
+
+Second Pass:
+
+ Now, move to the next two elements and compare them
+   {11  12  13  5  6}   
+Here, 13 is greater than 12, thus both elements seems to be in ascending order, hence, no swapping will occur. 12 also stored in a sorted sub-array along with 11
+
+Third Pass:
+
+Now, two elements are present in the sorted sub-array which are 11 and 12
+Moving forward to the next two elements which are 13 and 5
+   {11  12  13  5  6}
+Both 5 and 13 are not present at their correct place so swap them
+   {11  12  5  13  6} 
+After swapping, elements 12 and 5 are not sorted, thus swap again
+   {11  5  12  13  6}   
+Here, again 11 and 5 are not sorted, hence swap again
+   {5  11  12  13  6}   
+Here, 5 is at its correct position
+
+Fourth Pass:
+
+Now, the elements which are present in the sorted sub-array are 5, 11 and 12
+Moving to the next two elements 13 and 6
+   {5  11  12  13  6}   
+Clearly, they are not sorted, thus perform swap between both
+   {5  11  12  6  13}  
+Now, 6 is smaller than 12, hence, swap again
+   {5  11  6  12  13}  
+Here, also swapping makes 11 and 6 unsorted hence, swap again
+   {5  6  11  12 13 }  
+Finally, the array is completely sorted.
