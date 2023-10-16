@@ -26,14 +26,17 @@
 
 🔹DSA/CP Questions and Solutions: Contribute your favorite Data Structures and Algorithms problems along with their solutions. <br>
 🔹Make sure to include the problem description and your code in a clear and readable format.<br>
-🔹Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! <br>
 🔹Write theory explanations for topics related to Data Structures and Algorithms to help fellow learners grasp concepts better.<br>
+🔹Theory Explanations: If you have in-depth knowledge about certain DSA/CP topics, share your insights! <br>
+🔹Fun games and tools <br>
+
 ⚜️ Maintain good quality of contributions.<br>
 ✅ Ensure that Problem duplication does not take place.<br><br>
 
 ## Note 1: Add files in their respective folder 📁 
 🔸For DSA/CP Questions and Solutions : Folder is DSA_CP <br>
 🔸For Theory Explanations : Folder is Theory_Explanation <br>
+🔸For Games or Tools : Folder is Games_Tools <br>
 
 ## Important Tip 💡
 ♻️Sync Fork before making new commit<br>
